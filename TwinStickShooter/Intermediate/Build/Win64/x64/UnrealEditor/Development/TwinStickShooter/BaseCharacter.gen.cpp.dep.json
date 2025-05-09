@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\willi\\documents\\github\\introtogameprogramming\\unreal4\\twinstickshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\twinstickshooter\\uht\\basecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\willi\\documents\\github\\introtogameprogramming\\unreal4\\twinstickshooter\\intermediate\\build\\win64\\x64\\twinstickshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\willi\\documents\\github\\introtogameprogramming\\unreal4\\twinstickshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\twinstickshooter\\definitions.twinstickshooter.h",
+            "c:\\users\\willi\\documents\\github\\introtogameprogramming\\unreal4\\twinstickshooter\\source\\twinstickshooter\\basecharacter.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\willi\\documents\\github\\introtogameprogramming\\unreal4\\twinstickshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\twinstickshooter\\uht\\basecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

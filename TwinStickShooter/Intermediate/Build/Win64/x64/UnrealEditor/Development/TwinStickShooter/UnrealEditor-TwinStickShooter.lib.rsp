@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TwinStickShooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\willi\Documents\GitHub\IntroToGameProgramming\Unreal4\TwinStickShooter\Intermediate\Build\Win64\x64\TwinStickShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:\Users\willi\Documents\GitHub\IntroToGameProgramming\Unreal4\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\BaseCharacter.gen.cpp.obj"
+"C:\Users\willi\Documents\GitHub\IntroToGameProgramming\Unreal4\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\TwinStickShooter.init.gen.cpp.obj"
+"C:\Users\willi\Documents\GitHub\IntroToGameProgramming\Unreal4\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\BaseCharacter.cpp.obj"
+"C:\Users\willi\Documents\GitHub\IntroToGameProgramming\Unreal4\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\TwinStickShooter.cpp.obj"
+"C:\Users\willi\Documents\GitHub\IntroToGameProgramming\Unreal4\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\PerModuleInline.gen.cpp.obj"
+"C:\Users\willi\Documents\GitHub\IntroToGameProgramming\Unreal4\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\Default.rc2.res"
+/OUT:"C:\Users\willi\Documents\GitHub\IntroToGameProgramming\Unreal4\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\UnrealEditor-TwinStickShooter.lib"

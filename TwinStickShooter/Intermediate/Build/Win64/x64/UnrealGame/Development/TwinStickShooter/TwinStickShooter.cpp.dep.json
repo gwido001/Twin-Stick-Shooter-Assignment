@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\willi\\documents\\github\\introtogameprogramming\\unreal4\\twinstickshooter\\source\\twinstickshooter\\twinstickshooter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\willi\\documents\\github\\introtogameprogramming\\unreal4\\twinstickshooter\\intermediate\\build\\win64\\x64\\twinstickshooter\\development\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\willi\\documents\\github\\introtogameprogramming\\unreal4\\twinstickshooter\\intermediate\\build\\win64\\x64\\unrealgame\\development\\twinstickshooter\\definitions.twinstickshooter.h",
+            "c:\\users\\willi\\documents\\github\\introtogameprogramming\\unreal4\\twinstickshooter\\source\\twinstickshooter\\twinstickshooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
